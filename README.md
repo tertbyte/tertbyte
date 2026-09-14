@@ -1,29 +1,44 @@
 # Mohammed Shazin
 
-Developer & Builder.
+### 🎮 3D • Anime • AI • Web
 
-I build **games, AI experiments, web experiences, and whatever interesting idea comes next.**
-
-### Projects
-
-🎮 **Games** — interactive worlds & experiments  
-🤖 **AI** — intelligent tools & experiments  
-🌐 **Web** — creative interfaces & experiences  
-
-### Stack
-
-`Python` · `JavaScript` · `C++` · `HTML` · `CSS` · `Git`
-
-### Currently building
-
-**SHAZIN // WORLD**  
-An interactive developer portfolio.
-
-→ **[Enter the world](https://tertbyte.github.io/world/)**
+> Building digital worlds, experiments, and weird ideas.
 
 ---
 
-*"Build something interesting."*
+## ⚡ What I Build
+
+🎮 **Games & 3D Worlds**  
+🤖 **AI Experiments**  
+🌐 **Interactive Web Experiences**  
+🧪 **Creative Tech**
+
+---
+
+## 🛠️ Tech
+
+`JavaScript` `Python` `C++` `HTML` `CSS` `Git`
+
+---
+
+## 🌌 Current Project
+
+### SHAZIN // WORLD
+
+A 3D/anime-inspired interactive developer world.
+
+**[ENTER THE WORLD →](https://tertbyte.github.io/world/)**
+
+---
+
+### 🎨 Collab
+
+Open to building:
+**Games · Anime Projects · AI · 3D Worlds · Web Experiences**
+
+---
+
+> **Create. Experiment. Build worlds.**
 
 <!--
 **tertbyte/tertbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
