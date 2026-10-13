@@ -1,0 +1,34 @@
+name: Daily Activity Log
+
+on:
+  schedule:
+    # Runs daily at 00:15 UTC (05:45 India Standard Time)
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-log:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Record automated maintenance run
+        run: |
+          mkdir -p activity
+          date -u +"%Y-%m-%d — Automated repository maintenance ran (UTC)." >> activity/automated-maintenance.md
+
+      - name: Commit log update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add activity/automated-maintenance.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: record automated maintenance run"
+            git push
+          fi
