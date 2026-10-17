@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-tert.site-18181b?style=for-the-badge&logo=vercel&logoColor=white)](https://tert.site)
 [![GitHub](https://img.shields.io/badge/GITHUB-tertbyte-18181b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tertbyte)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-18181b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shazin-4608362b7)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-@cyperhack.byte-18181b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cyperhack.byte)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-@cyperhack.byte-18181b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shaziin.n)
 
 </div>
 
@@ -127,7 +127,7 @@ Have an idea, collaboration, or creative project in mind? Let's build something 
 **[Portfolio · tert.site](https://tert.site)**  
 **[GitHub · @tertbyte](https://github.com/tertbyte)**  
 **[LinkedIn · Mohammed Shazin](https://www.linkedin.com/in/mohammed-shazin-4608362b7)**  
-**[Instagram · @cyperhack.byte](https://www.instagram.com/cyperhack.byte)**
+**[Instagram · @cyperhack.byte](https://www.instagram.com/shaziin.n)**
 
 <br/>
 
