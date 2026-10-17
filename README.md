@@ -127,7 +127,7 @@ Have an idea, collaboration, or creative project in mind? Let's build something 
 **[Portfolio · tert.site](https://tert.site)**  
 **[GitHub · @tertbyte](https://github.com/tertbyte)**  
 **[LinkedIn · Mohammed Shazin](https://www.linkedin.com/in/mohammed-shazin-4608362b7)**  
-**[Instagram · @cyperhack.byte](https://www.instagram.com/shaziin.n)**
+**[Instagram · @shaziin.n](https://www.instagram.com/shaziin.n)**
 
 <br/>
 
